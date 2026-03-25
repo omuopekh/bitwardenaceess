@@ -1,5 +1,5 @@
-project = 'bitwardenaccesshelp'
-author = 'bitwardenaccesshelp'
+project = 'bitwarden-sign-in'
+author = 'bitwarden-sign-in'
 release = '1.0'
 
 # Extensions
@@ -25,6 +25,6 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://bitwardenaccesshelp.readthedocs.io/en/latest/'
+html_baseurl = 'https://bitwardenaceess.readthedocs.io/en/latest/'
 
 
